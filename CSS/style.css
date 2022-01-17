@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: rgb(50, 50, 51);
+}
+.One,
+.Two,
+.Three {
+  height: 200px;
+  width: 800px;
+  margin-left: 25%;
+  background: rgb(50, 50, 51);
+}
+.One {
+  margin-top:70px;
+}
+.Two,
+.Three {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.Cah,
+.Edd {
+  height: 100%;
+  width: 45%;
+  float: left;
+  background-color: cornsilk;
+  border-radius: 2.5%;
+  padding-top: 8%;
+  padding-left: 3%;
+  margin-left: ;
+  text-align: center;
+}
+.Cah {
+  margin-right: 1%;
+  ma
+}
+.Edd {
+  margin-left:1%;
+}
+#Moderator{
+  color: azure;
+  text-align: center;
+  height:10px;
+  margin-top:15px;
+}
+#Banner{
+ color: azure;
+  text-align: center;
+  height:10px;
+  margin: 4px;
+  padding-top: 20px;
+}
+.Name{
+  padding-top:;
+  position: relative;
+}
+img{
+height:40%;
+float: left; width:40px;
+margin-left: 10px;
+border-radius: 20%;
+}
